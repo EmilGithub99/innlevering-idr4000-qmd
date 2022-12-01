@@ -1,9 +1,5 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+Koder og data vil kunne finnes ved å følge vedlagt link
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
+https://github.com/EmilGithub99/innlevering-idr4000-qmd.git
