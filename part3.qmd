@@ -1,3 +1,104 @@
+---
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
 # Deloppgave 3: Vitenskapsfilosofi
 
-<!-- Part 3: Philosophy of science -->
+## Falsifikasjonisme
+
+Poppers falsifiserbarhetskriterium handler om hva Popper mente en gode vitenskapelig teori er og hva en dårlig teori er.
+Popper mente at hvis en vitenskapelig teori skulle være god måtte den kunne være falsifiserbar Okasha (2016).
+Med dette menes det at en falsifiserbar vitenskapelig teori er feil, men den kan testes om igjen og vil kunne bli erklært feil eller bli motbevist.
+I følge Popper ville man kunne se en tydelig linje mellom teorier som er u falsifiserbare og falsifiserbare (uvitenskapelige og vitenskapelige).
+[@okasha2016].
+Han mente at en Teori ville bare kunne bli falsifisert eller aldri bli bekrefter.
+Altså en teori ville aldri kunne bli bekreftet.
+Okasha (2016).
+Årsaken til falsifiserbarhetskriterium til Popper var å kunne skille mellom hva som var forskjellen mellom vitenskapelig teorien og pseudo vitenskaps teorier (uvitenskapelig).
+[@okasha2016].
+Popper mente også at man ikke lenger hadde induksjonsutfordringer.
+Induksjon er en utprøving av gyldigheten til en teori.
+[@okasha2016].
+Dette vil si at man ikke lenger treninger å bruke induksjon for å fastslå om en teori er gyldig eller ikke.
+
+Poppers falsifiserbarhetskriterium sier at vi kan lage hypoteser ut av vitenskapelige teorier, hvis en slik teori vil kunne falsifiseres gjennom eksperimenter og observasjon, så vil vi kunne si at denne teorien ikke er sann.
+[@okasha2016].
+En falsifiserbare vitenskapelig teori vil da forsone seg fra empiriske observasjoner.
+Dette vil gjøre at en teori har gode muligheter for å kunne bli testet opp mot data kan bli falsifisert eller ikke bli falsifisert ut ifra teorien.
+[@okasha2016].\
+
+Hvis vi ser på andre filosofier vil vi se at det ikke er de samme klare linjene mellom vitenskapelig og uvitenskapelige teorier som Popper sier, men at teorier er dårlige eller gode gjennom bekreftelse av teorien.
+Okasha (2016).
+I Okasha [-@okasha2016] fant de relativt tydelige svakheter med teorien popper presenterer.
+Altså at vitenskapen handler om mye mer som å kunne bevise at teorier stemmer eller høyest sannsynlig vil være riktig og ikke bare falsifisere vitenskapelige teorier som popper sier.
+[@okasha2016].
+Okasha [-@okasha2016]( foreslår at målet til vitenskapsmenn ikke er å samle inn data for å kunne avkrefte teorier til andre vitenskapsmenn å ikke være riktig, mens heller at dem vil samle inn egen data for å bekrefte sine egne teorier vil heller være mest sannsynlig. For at disse vitenskapsmennene skulle gjøre må det mest sannsynlig bruke induktive argumenter. [@okasha2016].\
+Dette betyr altså at popper sin teori kan vike litt siden han mener induksjon ikke trengs for å avgjøre gyldigheten til en vitenskapelig teori. Etter min forståelse er det vanskelig å si hvem av dem som har riktig i dette tilfelle. Fordelen med Popper falsifiserbarhetskriterium er at han gjøre det enkelt å skille mellom hva som er god vitenskap og av som er dårlig vitenskap. Hvis dette er tilfelle vil det være enklere å avgjøre vitenskapelige teorien. Jeg synes det er vanskelig å se for meg at alle vitenskapelige teorier som ikke kan falsifiseres ikke er vitenskap eller pseudovitenskap. Derfor vil jeg si at jeg heller mot teorien i Okasha [-@okasha2016]. Avslutningsvis vil jeg si det er vanskelig å bedømme hvilken av teoriene som er best til å avgjøre god vitenskap eller ikke.
+
+## HD-metoden og abduksjon/Bayesianisme
+
+Strukturen i hypotetisk deduktiv metode (HD metoden) er byget opp for å kunne bekrefte vitenskapelige argumenter ved å få positive tilbakemeldinger ved å teste de deduktive konsekvensene av et argument.
+[@hempel1966].
+Strukturen i hypotetisk deduktiv metode bygges opp av 4 trinn og er beskrevet i Hempel [-@hempel1966].
+Det første trinnet (1) i hypotetisk deduktiv metode er hvor en hypotese/teori blir utarbeidet.
+I det nest trinnet (2) blir de empiriske konsekvensene funnet.
+Trinn (3) vil man teste og observere de empiriske konsekvensene som ble funnet i trinn 2.
+I det siste trinnet (4) vil man finne ut om de empiriske konsekvensene vil være sanne.
+Altså vil man kunne sannsynligvis bekrefte argumentet eller teorien gjennom induksjon.
+[@hempel1966].
+For å kunne forklare den hypotetiske deduktiv metode til Hempel i Hempel [@hempel1966] med egne ord vil jeg vise det gjennom et eksempel.
+Et eksempel på dette kav være at jeg lurer på «kan høy interistes intervaller øke vo2max?»
+.
+I trinn 2 vil jeg si høy hjerte frekvens over tid øker vo2max, og høy intensitets intervaller forårsaker høy hjerte frekvens over tid.
+I trinn 3 kan jeg se at begge argumenter svarer på hypotesen.
+I trinn 4 vil jeg kunne bekrefte at vo2max øker ved høy intervalls trening, dette er en induktiv bekreftelse.
+Det er flere former for måter vi kan bekrefte vitenskap enn Hempel [-@hempel1966] sin i hypotetisk deduktiv metode, vi kan sammenligne denne med bayesianisme.
+Bayesianisme er en annen metode som man vil kunne bruke for å bekrefte en teori, fordi det vil være flere bevis som kan være med å bekrefte en teori.
+[@okasha2016].
+Dette kan gjøres fordi man bruker sannsynlighet.
+Forklaringen på dette er at en hypotese har mulighet for å teste forutsigelser, og det vil kunne vise at forutsigelsen stemmer.
+Forutsigelsene vil kunne være med på å øke tiltroen til en hypotese om man følger kondisjonaliseringsregelen.
+Dette vil altså si at positive bekreftelse av forutsigelser vil som oftest kunne øke tillit til at en teori kan være sann.
+[@okasha2016].
+Hvis vi ser på forskjellene mellom hypotetiske deduktiv metode og bayesianisme, vil vi se av hypotetiske deduktiv metode tar mer utgangspunkt i «kalkulert» gjetting ut ifra det informasjonen som er tilgjengelig.
+I motsetning gjør bayesianisme vil teorien her vil øke sin tiltro jo mer informasjon og data som blir tilgjengelig som til slutt vil kunne bekrefte ut i fra høyrere tillit.
+Begge metodene får frem en bekreftelse, men skilles ved at bayesianismen baserer seg mye på resultatene og vil kunne endre sin opprinnelig hypotese ettersom resultatene kan indikere noe annet enn det opprinnelige.
+Hypotetiske deduktiv metode tar utgangspunkt i sin hypotese og vil da enten bekrefte eller motbevise denne som eksempelvis i mitt eksempel kan høy interistes intervaller øke vo2max?»
+.
+
+## Replikasjonskrisen
+
+Replikasjonskrisen er en krise innen vitenskap, og med dette menes det er en stor andel av studer som har blitt gjennom ført som ikke kan replisere, dette vil si at dem ikke kan reproduserer med samme resultat når man gjøre en studie på nytt og at vitenskapen står ovenfor en krise på grunn av dette.
+[@bird2021].
+I Baker [-@baker2016] ble det gjort en undersøkelse av 1576 forskere hvor 52% av dem mente det er en signifikant krise når det kommer til replikasjon av studier.
+Bird i «Bird (2021)» kommer med spesiell bekymring, denne er at replikasjonskrisen skal føre til mistillit av vitenskap utover de forskningsfeltene hvor funnene av ikke replikasjon ble funnet.
+Det er en grunn til at dette skjer mener Bird [-@bird2021] og dette er basefrekvensfeil.
+Innen basefrekvens er det 2 type feil som nevnes og disse er at man aksepterer at en teori er usann og aviser en teori som stemmer.
+[@bird2021].\
+
+Bird [-@bird2021]mener at feilen vil sannsynlig oppstå når man trekker konklusjoner ut i fra sannsynligheten for et generelt fenomen.
+[@bird2021].
+Et eksempel Bird [-@bird2021] bruker er at om en person er syk.
+Feilen skjer når enn fokuserer kun på bevisene man ser.
+Mens man ser bort i ifra forekomsten av denne sykdommen, og dette vil da føre til konklusjoner på feil grunnlag.
+[@bird2021].
+Et annet eksempel som blir brukt er et profileringsverktøy.
+Dette profileringsverktøyet skal skille ut terrorister basert på hvordan en terrorist ser ut og hvordan personen oppfører seg.
+Denne testen skal være 95% sikker som vil si av at for være 100 person vil testen indikere at det 5 terrorist og 95 som ikke er terrorister.
+Dersom en person ikke kommer gjennom denne testen så vil det fortsatt være lav sannsynlighet for at denne personen er terrorist siden forekomsten av terrorister er mye færre enn 5 av 100 som flyr.
+[@bird2021].
+I følge Bird [-@bird2021] vil det være feil å tro på denne teorien, men hvis folk tror på denne vil det være akseptert å tro på en usann teori.
+Dette vil si at hvis vi tester en stor andel hypoteser vil det da være lite sannsynlig at vitenskapelige teorier kan bekreftes [@bird2021].
+Hvis vi ser på andre årsaker til replikasjonskrisen som Bird beskriver har vi lav statistisk styrke.
+En av årsakene til lav statistisk styrke kan være studier som inneholder for få deltagere som vil føre til økt forekomst av type 2 feil og et resultat som gir et falskt svar.
+[@bird2021].
+Bird mener at dette ikke er den eneste grunnen til at det forkommer mye type 2 feil, det vil si at det kan forekomme type 2 feil selv om det er høy statistisk styrke.
+Dette viser han gjennom en utregning som bekrefter at man selv med høy statistisk styrke vil det fortsatt være 31% sannsynlighet for feil for at falsk svar vil forekomme.
+En annen tanke som Bird [-@bird2021] diskuterer er publikasjonsskjevhet, dette er altså skjevhet i hva som publiserer.
+Av alt det som publiseres, publiseres det mye mer med statistisk signifikant utfall enn studier med negativt utfall.
+[@bird2021]).
+Bird [-@bird2021] mener dette ikke kan være årsaken til replikasjonskrisen.
+Etter min tolkning vil det være vanskelig og si med sikkerhet ut i fra studiene jeg har sett at Bird [-@bird2021] sin forklaring er bedre, hvor en bedre forståelse av statistikk og sannsynlighet vil være viktig.
+[@bird2021].
