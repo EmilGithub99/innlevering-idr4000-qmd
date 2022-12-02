@@ -1,3 +1,1 @@
-# Deloppgave 5: Analysere repeterte målinger
-
-<!-- Part 1: Analyzing repeated measures experiments -->
+# Deloppgave 5: Analysere repeterte målinger.
