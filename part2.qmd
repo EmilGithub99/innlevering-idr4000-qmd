@@ -1,6 +1,5 @@
 # Deloppgave 2: Laborasjonsrapport
 
-
 ## **Introduksjon**
 
 Fysisk prestasjon påvirkes av mange forskjellige faktorer. Et fokus de siste årene har vært forskning på genetikks påvirkning på prestasjon. Et gen som ofte er assosiert med muskelfunksjon og fysisk prestasjonsevne er ACTN3 [@pickering2017]. ACTN3 står for alfa-actinin-3 og koder for et protein som kun finnes i type-II muskelfibre. Proteinet er involvert i muskelkontraksjon og bidrar til å skape eksplosiv kraft ved høye hastigheter [@yang2003]. En polymorfisme av genet er R577X. Her erstattes arginin (R) med et prematurt stoppkodon (X) ved aminosyre 577, noe som resulterer i en forkortet versjon av genet [@eynon2012]. R-allelen er assosiert med kraftidretter og X-allelen finnes for det meste hos utholdenhetsutøvere.
@@ -37,4 +36,4 @@ Resultatene etter denne testen vil kunne vise hva slags genotype testpersonene h
 
 Konsentrasjonen av DNA var litt lav for en av testpersonene. Dette kan skyldes at ikke all supernatant ble fjernet i den tidlige produksjonsfasen, eller at man ikke fikk med nok øvre fase før vi tilsatte etanol. I den ene prøven, hvor DNA konsentrasjonen ble for lav til videre undersøkelse, ble midtre fase forstyrret.
 
-## Referanser
+## 

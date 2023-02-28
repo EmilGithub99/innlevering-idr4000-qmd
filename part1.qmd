@@ -155,4 +155,4 @@ Reliabiliteten i forskning er veldig viktig for å kunne reprodusere tester og m
 
 Standardfeilen er en måte å angi feilmarginen av en måling. Når man ønsker å måle f.eks. forbedringen av utholdenhetsprestasjonen på en gruppe individer er det viktig kunne differensiere mellom hva som er endring og hva som er målefeil. Standardfeilen blir ofte utregnet som variasjonskoeffisient (prosent av gjennomsnittet). Grunnen til at man bruker variasjonskoeffisienten er at sammenligningen blir mer nøyaktig ettersom standardfeilen vanligvis øker når målingsverdiene blir større, mens prosentverdiene er ganske like [@hopkins2000]. Jo større variasjonskoeffisienten er, jo større er spredningen. For å forbedre reliabiliteten og senke variasjonskoeffisienten kan man blant annet ha samme testleder på begge tester, standardisere de siste 48 timene for testdeltakerne før test, ha mer rutine i labbarbeid og flere forsøkspersoner [@hopkins2000]. Andre faktorer som kan føre til endringer fra test til re-test kan være læringseffekten, motivasjon eller utmattelsesgraden.
 
-## Referanser
+## 
