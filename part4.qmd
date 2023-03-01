@@ -1,3 +1,127 @@
+---
+bibliography: references.bib
+---
+
 # Deloppgave 4: Studiedesign
 
 <!-- Part 4: Study designs -->
+
+## Innledning
+
+I denne oppgaven vil jeg se på ulike studiedesigne innenfor
+frekvensstyrketrening, med dette mener jeg studier som undersøker ulik frekvens
+av styrke trening innad i en uke men med likt totalt volum styrke trening . Artikler
+som ser på dette er @gomes2019, @johnsen2021, @hamarsland2022, @saric2019 og @klemp2016. \
+
+styrketrening kan ha mange fordeler, hvis vi ser på styrketrening i idretts
+sammenheng vil vi kunne se en bedring av prestasjon ved å trene styrke i
+tillegg til utholdenhet [@hoff2002, @styles2016]. @klemp2016 ser på hvordan forskjellige på hvordan
+ulikt volum av styrketrening påvirke ulike adaptasjoner ved styrketrening som
+hypertrofi og styrke økning. Dette spørsmålet ønsker dem også å finne svar på i
+@hamarsland2022, her mellom 1, 2 og 3 styrke øker i
+uken. Både @saric2019 og @gomes2019 ser på ulike adaptasjon ved samme totalt volum med ulik frekvens. Altså fordelinger i en uke. @gomes2019 og @johnsen2021 gjennomfører studien på trente menn. \
+Felles for alle disse studiene er at de ønsker å se på forskjellig effekt av
+maksimal styrketrening på økning i maksimal styrke og muskelmasse.
+
+## Metode
+
+#### Deltagere
+
+I studien gjort av @klemp2016 er det 16 deltagere
+med en snittalder på 23 år og disse er college studenter, og de ble delt inn i
+2 grupper i studien. @hamarsland2022 besto av 21
+deltagere herav 11 menn og 10 kvinner. @johnsen2021
+hadde også 21 deltagere med en alder på 27.6 år, disse var kjent med
+styrketrening fra tidligere. @gomes2019 sin studie
+besto av 23 deltagere i alderen 26.2 år. I studien @saric2019
+var det 30 deltagere med en alder på 22.6 år. \
+
+Alle studiene har mellom 16 til 30 deltagere som en relativt unge deltagere.
+
+#### Studiedesign
+
+Alle studiene som er nevnt ovenfor er kontrollerte randomiserte studier .
+Dette vil si at deltagerne blir tilfeldig satt i ulike grupper i
+treningsintervensjonen. Studien @hamarsland2022
+delte deltagerne inn i 3 grupper. (1 gang i uke, 2 ganger i uke og 3 ganger i
+uken). @saric2019 delte gruppen inn i to grupper (t3
+og t6). Dette er i likhet med @johnsen2021, @klemp2016 og @gomes2019 som
+alle delte inn i 2 ulike grupper.
+
+#### intervensjon
+
+Treningen i studiene er noe ulike men gjennomfører trening over en viss tid.
+@hamarsland2022 deler inn i 3 grupper, disse
+gjennomfører 1, 2 eller 3 økter på uke, og gjennomfører denne treningen i 9
+uker med progresjon. @johnsen2021 delte gruppen inn
+i 2 grupper, gruppen SPLIT ( n=10) gjennomførte 2 økter med knebøy og underkropp
+og 2 økter med overkropps trening, den andre gruppen gjennomførte 4 økter med
+helkropp, altså knebøy, benkpress med flere øvelser. Intervensjonen varte i 8
+uker. @klemp2016 delte inn i 2 grupper, gruppe en
+trente 12 repetisjoner (dag 1) 10 repetisjoner (dag 2) og 8 repetisjoner (dag
+3). Den andre gruppen gjennomføre 6, 4 og 2 repetisjoner på den ulike dagene.
+Treningen besto av kun benkpress og knebøy og varte over 8 uker og 3 økter i
+uken. @saric2019 gjennomføre intervensjon over 6
+uker, gruppene ble delt inn i t3 og t6. Gruppene trente altså 3 eller 6 ganger
+i uken, men det totale volumet var likt for begge gruppene. \
+
+I studien @gomes2019 delte også inn i HFRT og LFRT.
+høyfrekvensgruppen gjennomførte en full kropps økt hver trening, mens
+lavfrekvensgruppen gjennomførte en økt per muskelgruppe. Det ble gjort 5 økter
+i uken, med amme antall sett (10-15) og 8-12 repetisjoner på en intensitet
+70-80% av 1RM. Intervensjonen her varte over 8 uker.
+
+#### Test protocol 
+
+#### Analyse
+
+Studiene hadde ulike metoder for analysere dataene sine. studiene bruke
+metoder som T-tester og ANOVA.
+Alle studiene hadde satt en p verdi for en signifikant ending fra pre-test til
+post-test, denne var satt til p \< 0.005.
+
+#### Resultater
+
+I @johnsen2021 så dem en signifikant økning i 1RM
+i knebøy og benkpress, men det ble ikke sett en signifikant ending mellom
+frekvensgruppene i knebøy ( p = 0. 460) eller benkpress ( p = 0.431). \
+
+@hamarsland2022 fant ingen forskjeller mellom sine
+grupper i verken økning i 1RM eller muskelmasse, men begge grupper hadde en
+bedring i både 1RM i knebøy og mer muskelmasse. @gomes2019
+gjør lignende funn i sin studien med likt volum treningsvolum mellom gruppene.
+Her var det en signifikant økning i både muskelstyrke ( p \< 0.001) og
+muskelmasse (p \< 0.007), men som i @hamarsland2022
+finner de heller ingen forskjeller mellom lav og høy frekvenstrening. @klemp2016 gjør også lignende funn i sin studie her
+signifikant økning i maksimalstyrke og muskelmasse i overkroppen. Dette vil
+kunne si at likt volum med ulik frekvens kan gi de samme tilnærmet like resultater.
+@saric2019 gjorde sin studie på trene deltagere med
+samme funn som resten av studiene.
+
+### Konklusjon
+
+Ved å basere seg på disse studien kan man det se ut som det er flere måter å
+oppnå styrketreningsadaptasjoner. Studiene finner en signifikant økning i
+muskelstyrke og muskelmasse, men ingen forskjellen mellom disse gruppene. Det
+vil si at hvis man kan legge opp sin treningsuke på forskjellige måter med likt
+resultat så lenge det totale treningsvolumet er likt. \
+
+Studien gjennomføre en randomisert inndeling som er en bra måte å gjennomføre
+disse type studier hvor man ønsker å se forskjell fra før og etter en
+intervensjon. Det kunne vært gunstig å gjennomført studiene med en kontroll
+gruppe også. dette for å se endingen i forhold til deltagere som ikke gjennomfører
+intervensjoner. Alle studiene ser en endring over sin treningsintervensjon. Det
+kunne vært interessant å se tilsvarende studier over en lengre
+treningsintervensjon, og om resultatet fortsatt ville kommet ut med samme
+resultat.
+
+### Relevans
+
+Disse studien kan si noe om hvordan vi kan trene maksimal styrketrening for
+å oppnå ønskelige adaptasjoner. Studiene viser at hvis totale volumet i en uke
+er likt vil man ha samme resultat. dette kan være gunstig for å planlegge
+trening i kombinasjon med annen trening som for eksempel utholdenhetstrening,
+hvis man kan ha en styrke økt med mindre belastning per økt vil det muligens
+være positivt
+
+ 

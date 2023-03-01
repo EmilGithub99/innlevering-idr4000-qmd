@@ -2,4 +2,4 @@
 
 Koder og data vil kunne bli funnet ved å følge vedlagt link
 
-https://github.com/EmilGithub99/innlevering-idr4000-qmd.git
+https://github.com/EmilGithub99/innlevering-idr4000-qmd 

@@ -11,28 +11,16 @@ knitr::opts_chunk$set(fig.pos = "H", out.extra = "")
 
 ```
 
-## Introduction
+## Introduksjon
 
-Maksimal styrketrening har mange gunstige effekter på god helse hos
-mennesker, dette kan blant annet være en økning i våres muskelstyrke samt en
-økning i våres kroppssammensetning. \
+Maksimal styrketrening har mange gunstige effekter på god helse hos mennesker, dette kan blant annet være en økning i våres muskelstyrke samt en økning i våres kroppssammensetning.\
+Det er flere studier som har undersøkt effektene av maksimal styrke trening over tid. Hvis vi ser på studien [@styles2016] så de en signifikant økning i absolutt maksimal styrke i knebøy etter 6 uker med 2 med maksimal styrketrening (p ≤ 0.001). flere studier gjør også lignende funn. [@losnegard2011] undersøker effekten av maksimalstyrketrening på prestasjon hos langrennsløpere, her blir det også gjort funn i økning i muskelstyrke, men ingen endring i endring i muskelmasse. Det kan tenkes at endringer hos godt trente vil vanskelig å observere på relativt kort tid.\
 
-det er flere studier som har undersøkt effektene av maksimal styrke trening
-over tid. Hvis vi ser på studien @styles2016 så de
-en signifikant økning i absolutt maksimal styrke i knebøy etter 6 uker med 2
-med maksimal styrketrening (p ≤ 0.001). flere studier gjør også lignende funn. @losnegard2011 undersøker effekten av
-maksimalstyrketrening på prestasjon hos langrennsløpere, her blir det også
-gjort funn i økning i muskelstyrke, men ingen endring i endring i muskelmasse.
-Det kan tenkes at endringer hos godt trente vil vanskelig å observere på
-relativt kort tid. \
+En studie gjort av [@rønnestad2007] undersøker dem effektene av ulike antall sett av maksimalstyrke trening og effekt på muskelmasse og styrke. Her er det en økning i både styrke og muskelmasse. økningen er lik mellom gruppene i ben, men bedre med flere sett på overkroppen [@rønnestad2007]. En studie på eldre deltagere (70år+) [@vikberg2019] fant dem signifikant økning i lean mass hos intervensjonsgruppen. Man vil kunne se at mange ser en bedring i maksimal styrke og/eller muskelmasse når dem gjennomfører styrketrening. Det blir gjort ulike funn om ulike volum vil gi effekt. I [@carpinelli1998] ser at det ikke vil være mulig å se en endring på undersøkelser under 25 uker. Her nevnes det også at det ikke er noe grunnlag for å si at høyere volum vil gi en bedring i muskelstyrke eller muskelmasse
 
-En studie gjort av @rønnestad2007 undersøker dem effektene av ulike antall sett av maksimalstyrke trening og effekt på muskelmasse og styrke. Her er det en økning i både styrke og muskelmasse. økningen er lik
-mellom gruppene i ben, men bedre med flere sett på overkroppen @rønnestad2007. En studie på eldre deltagere (70år+) @vikberg2019 fant dem signifikant økning i lean mass hos intervensjonsgruppen. Man vil kunne se at mange ser en bedring i maksimal styrke og/eller muskelmasse når dem gjennomfører styrketrening. Det blir gjort ulike funn om ulike volum vil gi effekt. I @carpinelli1998 ser at det ikke vil være mulig å se en endring på undersøkelser under 25 uker. Her nevnes det også at det ikke er noe grunnlag for å si at høyere volum vil gi en bedring i muskelstyrke eller muskelmasse
+På bakgrunn av dette vil vi undersøke om man vil kunne se en økning i både muskelstyrke og muskelmasse ved styrketrening, dog med ulike volum. Studien gjennomføres over 12 uker med treningsintervensjon med både 1 og 3 sett (ulikt volum).
 
-På bakgrunn av dette vil vi undersøke om man vil kunne se en økning i både
-muskelstyrke og muskelmasse ved styrketrening, dog med ulike volum. Studien gjennomføres over 12 uker med treningsintervensjon med både 1 og 3 sett (ulikt volum).
-
-### Methods
+### Metode
 
 Deltagelse Studien består av 41 deltagere. Disse er mellom 18 og 40 år. Alle deltagerne hadde erfaring med fysisk aktivitet tidligere. Deltagere måtte være skadefrie, ikke bruke røyke samt kun ha trent 1 økt per uke siste 12 månedene. Deltagere som benyttet seg av medisiner som kunne påvirke treningen ble ekskludert. 7 deltagere trente 85% av det som var planlagt og ble fjernet ved analysen. Intervensjon Treningsintervensjonen besto av 12 uker trening med 2-3 styrkeøkter per uke. Alle deltagere trente ulikt volum på hvert bein. Når man trente ulikt volum på de forskjellige beinene vil man kunne se forskjellen mellom ulikt styrketreningsvolum. Hos den enkelte deltagere ble det tilfeldig valgt hvem bein som skulle trene et sett og flere sett. Det ble gjort testet før, under og etter Treningen. Det ble gjort test av muskelstyrke og kroppssammensetning. Underveis ble testene gjort etter 3, 5 og 9 uker.
 
@@ -56,17 +44,13 @@ All statistikk ble gjennomført ved hjelp av R-studie (versjon 4.2.2). det blir 
 
 ### Resultater
 
-#### Kroppssammensettning  - LEAN  bodymass
+#### Kroppssammensettning - LEAN bodymass
 
 ```{r}
 #| echo: false 
 #| warning: false
 #| message: false
 #| include: true
-
-
-
-
 
 
 library(tidyverse); library(exscidata); library(lme4)
@@ -77,9 +61,6 @@ datlean <- dxadata %>%
 
   select(participant:include, lean.left_leg, lean.right_leg) %>%
 
-        
-
-      
 
   pivot_longer(names_to = "leg", 
 
@@ -96,29 +77,17 @@ datlean <- dxadata %>%
        
         filter(include == "incl") %>%
 
-       
-        
-
-        pivot_wider(names_from = "time", 
+       pivot_wider(names_from = "time", 
 
                     values_from = "lean.mass") %>%
-
-
          mutate(change = post - pre) %>%
-
-        
-
- 
 
         select(participant:sets, change) %>%
 
         pivot_wider(names_from = sets, values_from = change) %>%
 
-        
 
-  print()
-
-
+  print(n = 35)
 
 
 t.test(datlean$multiple, datlean$single, paired = TRUE)
@@ -135,7 +104,7 @@ T-testen ser på forskjellen i endring av LEAN bodymass fra pre-test til post-te
 #| fig-cap: "Endring i LEAN bodymass enkelt vs flere sett fra pre-test til post-test"
 
 
-#### LEAN MASS FIGURE
+
 
 library(exscidata); library(tidyverse)
 
@@ -214,7 +183,7 @@ datpress <- strengthvolume %>%
         select(participant:sets, change) %>%
         pivot_wider(names_from = sets, values_from = change) %>%
 
-  print()
+  print(n = 34)
 
 
 
@@ -267,7 +236,7 @@ datext <- strengthvolume %>%
 
         pivot_wider(names_from = sets, values_from = change) %>%
 
-  print()
+  print(n = 34)
 
 
 t.test(datext$multiple, datext$single, paired = TRUE)
@@ -276,6 +245,15 @@ t.test(datext$multiple, datext$single, paired = TRUE)
 
 Endring i maskimalstykre i leg extension fra pre-test til post-test. Det var en signifikant endring i maksimal styrke her (t(31) = 3.3683, p = 0.002035.
 
-### Discussion
+### Diskusjon 
 
-Ut ifra resultater i denne studien vil man kunne si at det gir en signifikant økning av muskelmasse pog muskelstyrke etter styrketrening, dette både med 1 repitisjon og 3 repitisjoner i ben øvelser. Dette stemmer overrens med @styles2016, @rønnestad2007, @losnegard2011 og @vikberg2019. som tidligere nevnt finner @rønnestad2007 signifikant økning i både 1 set og flere set, men at det er lik økning i overkroppen mellom disse kruppene. det kan da tenkes at man kan ha en lavt volum på overkroppstrening, mens på ben vil det være gunstig med flere repitisjoner. Studien @carpinelli1998 vil man kunne motbevise med at man finner en signifikant økning i både muskelmassse og muskelstyrke på under 25 uker med trening. @losnegard2011 ser en økning i muskelmasse, men ser ingen økning muskelstyrke hos langrennsløpere. det kan være tenkelig at godt trente utholdenmhetsutøvere vil kreve lengre tid for å kunne se endring, samt utholdehetstrening minsker økningen i muskelstryke "kilder concurrent" .
+Ut ifra resultater i denne studien vil man kunne si at det gir en
+signifikant økning av muskelmasse og muskelstyrke etter styrketrening, dette
+både med 1 repetisjon og 3 repetisjoner i ben øvelser. Dette stemmer overens
+med @styles2016, @rønnestad2007, @losnegard2011 og @vikberg2019. som tidligere nevnt finner @rønnestad2007 signifikant økning i både 1 sett og flere sett, men at det er lik økning i
+overkroppen mellom disse kruppene. det kan da tenkes at man kan ha en lavt
+volum på overkroppstrening, mens på ben vil det være gunstig med flere repetisjoner.
+Studien @carpinelli1998 vil man kunne motbevise med at man finner en signifikant økning i både muskelmasse og muskelstyrke på under 25 uker med trening. @losnegard2011 ser en økning i
+muskelmasse, men ser ingen økning muskelstyrke hos langrennsløpere. det kan
+være tenkelig at godt trente utholdenhetsutøvere vil kreve lengre tid for å
+kunne se endring, samt utholdenhetstrening minsker økningen i muskelstyrke [@eddens2018] .
